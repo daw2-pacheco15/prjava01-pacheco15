@@ -33,7 +33,7 @@ public class Prjava01Pacheco15 {
             bw.newLine(); 
             bw.write(" <body>");
             bw.newLine(); 
-            bw.write(" Nova p&agrave;gina web de Patricia Pacheco");
+            bw.write(" Nova p&agrave;gina web de Patricia Pacheco ");
             bw.newLine(); 
             bw.write(" </body>");
             bw.newLine(); 
